@@ -1,5 +1,5 @@
 # AlonaOSUCascades.github.io
-##Github Account Assignment
+## Github Account Assignment
 "GitHub was built by developers for developers"
 
 "Git is a version control system (VCS)."
